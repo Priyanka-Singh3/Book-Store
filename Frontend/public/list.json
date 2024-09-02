@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Paid",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 300,
+        "category": "Paid",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 450,
+        "category": "Paid",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 340,
+        "category": "Paid",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Paid",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 690,
+        "category": "Paid",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 13,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    },
+
+    {
+        "id": 14,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 790,
+        "category": "Paid",
+        "image" : "https://keepingupwiththepenguins.com/wp-content/uploads/2023/06/A-Good-Girls-Guide-To-Murder-Holly-Jackson-Keeping-Up-With-The-Penguins.jpg"
+    }
+]
